@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lengtech11&label=Profile%20views&color=0e75b6&style=flat" alt="lengtech11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lengtech11" alt="lengtech11" /></a> </p>
-
 - 🔭 I’m currently working at [BookMeBus.com, BookMe.plus](https://www.bookme.plus)
 
 - 🌱 I’m currently working and focus on **Ruby on Rails , PostgreSQL and Flutter**
@@ -17,7 +15,7 @@
 
 - 📄 Know about my experiences [soklenghoung.com](soklenghoung.com)
 
-- ⚡ Fun fact **I think that i was learning how to live.but now i just relies that i'm learning how to die.**
+- ⚡ Fun fact **If your code working fine don't touch it anymore.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
