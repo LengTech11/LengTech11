@@ -9,14 +9,6 @@
 
 - 🌱 I’m currently working and focus on **Ruby on Rails , PostgreSQL and Flutter**
 
-- 👨‍💻 All of my projects are available at [soklenghoung.com](soklenghoung.com)
-
-- 📝 I regularly write articles on [soklenghoung.blog.com](soklenghoung.blog.com)
-
-- 📫 How to reach me **soklenghoungofficial11@gmail.com**
-
-- 📄 Know about my experiences [soklenghoung.com](soklenghoung.com)
-
 - ⚡ Fun fact **If your code working fine don't touch it anymore.**
 
 <h3 align="left">Connect with me:</h3>
