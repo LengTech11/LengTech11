@@ -11,7 +11,7 @@
 </div>
 
 # Main Skills #
-[![My Skills](https://skillicons.dev/icons?i=dart,php,js,ruby,rails,vue,flutter,laravel,django,postgres,aws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,python,php,js,ruby,rails,vue,flutter,laravel,django,postgres,aws&perline=3)](https://skillicons.dev)
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
