@@ -15,7 +15,7 @@
 
 <p align="center">
 
-![LengTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=LengTech11&show_icons=true&theme=tokyonight&scale=0.8)
+![LengTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=LengTech11&show_icons=true&theme=tokyonight)
 ![LengTech's GitHub Streak](https://streak-stats.demolab.com/?user=LengTech11&theme=tokyonight&scale=0.8)
 
 </p>
