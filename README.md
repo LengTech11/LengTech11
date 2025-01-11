@@ -15,8 +15,5 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=LengTech11&show_icons=true&theme=tokyonight" alt="LengTech's GitHub stats" width="45%" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LengTech11&theme=dark&card_width=450&card_height=190" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=LengTech11&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=450" alt="GitHub Streak" width="45%" />
 </p>
-
-
-
