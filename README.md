@@ -2,7 +2,7 @@
 # Hello! 👋 Who am I? ##
 <div>
 <br/>
-- 🔭 Full-stack developer with 2 year of experience designing and building scalable, high-performance web and mobile applications។<br/>
+- 🔭 Software Developer with 3 years of experience designing and building scalable, high-performance web and mobile applications។<br/>
 - 🌱 Focusing in front-end technologies like React and Flutter, as well as back-end technologies like Ruby on Rails, Flask, and Laravel.<br/>
 - 😉 interesting knowledge about deep learning and reinforcement system.</br>
 
